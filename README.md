@@ -20,6 +20,12 @@ GIVEN a user is viewing "Step 3: Invest in your new income,"
 WHEN the user clicks the "Previous" button,
 THEN the app will display "Step Two: Apply for Jobs."
 
+## Mock-Up
+
+![Image of Step 1](./images/step-1.png)
+![Image of Step 2](./images/step-2.png)
+![Image of Step 3](./images/step-3.png)
+
 ---
 
 © Adriana Nino
